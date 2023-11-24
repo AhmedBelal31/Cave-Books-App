@@ -6,7 +6,7 @@ A new Flutter project.
 
 
 # Benfit👻
-## 🖥  Screens 
+## 📱 Screens 
 * [🆗] Splash Screen
 * [🆗] Login Screen
 * [🆗] Register Screen
